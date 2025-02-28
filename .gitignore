@@ -1,0 +1,34 @@
+# .NET Core
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# ASP.NET Core configuration files
+appsettings.Development.json
+appsettings.Production.json
+
+# IIS Express
+/IISExpress/
+
+# VS Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# User-generated files
+*.log
+
+# Windows Thumbs
+Thumbs.db
